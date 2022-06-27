@@ -1,4 +1,4 @@
-# Welcome to JongReulK Github
+# Welcome to MY Github
 
 - 👋 Hi, I’m @JongReulk
 - 👀 I’m interested in Flutter, Android, Unity
