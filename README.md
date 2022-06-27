@@ -14,3 +14,8 @@
 Here is my Notion
 
 <a href="https://jongreulk.notion.site/947bbddaf027428c9e18230f325436c9"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
+
+``` Python
+Hello, GitHub
+```
